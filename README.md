@@ -1,6 +1,8 @@
 # bricbreaker
 ## Breakout clone written in C using ncurses
 
+![Screenshot](screenshot.png)
+
 ### Installation/Playing
 * Make sure you have ncurses installed.
 * Clone this repo, cd into it.
