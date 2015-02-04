@@ -8,3 +8,7 @@
 * Clone this repo, cd into it.
 * `make` to compile and `./bricbreaker` to execute.
 * Use left and right arrows to move paddle.
+
+
+## Fedora
+`sudo yum install ncurses ncurses-devel` 

@@ -16,7 +16,7 @@
 
 #define DELAY 10000
 #define PADDLE_SPEED 3
-#define BALL_DELAY 9
+#define BALL_DELAY 7
 #define NUM_ROWS 3
 
 void move_right();
